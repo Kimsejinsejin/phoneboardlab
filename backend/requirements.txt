@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+pydantic
+Pillow
+httpx
+python-dotenv
+python-multipart
+apscheduler
+aiofiles
